@@ -1,0 +1,8 @@
+data/
+public/uploads/
+.env.local
+*.db
+.DS_Store
+node_modules/
+.next/
+out/
